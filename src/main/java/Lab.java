@@ -74,7 +74,7 @@ public class Lab {
     }
 
     /**
-     * Return the next item from a queue which is due to be removed, but do not remove it. This is referred to as
+     * Retrn the next item from a queue which is due to be removed, but do not remove it. This is referred to as
      * a 'peek'.
      * @param queue a Queue<String> object.
      * @return the next String due to be removed (peeked) from the Queue<String> (the oldest item in the queue.)
